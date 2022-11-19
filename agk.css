@@ -28,7 +28,7 @@ p     {font-family: verdana, impact;
       width: 300px;
       padding: 0px}
 .geo {position: absolute;
-      background: url("../geologia.jpg");
+      background: url("geologia.jpg");
       background-position: center;
 	  height: 100%;
       background-size: 100% 100%;
@@ -84,16 +84,16 @@ footer {
   transition: .3s;}
 .gradient-button:hover {
   background-position: right center;}
-.elec {background: url("../electro.jpg");
+.elec {background: url("electro.jpg");
        background-size: 100% 100%;
        background-attachment:fixed;
 	   overflow: hidden}
 a {text-align: center}
-.dos {background: url(../aktovi.jpg);
+.dos {background: url(aktovi.jpg);
       background-size: 100% 100%;
 	  background-attachment:fixed;
 	  overflow: hidden}
-.mini {background: url(../minifabrika.jpg);
+.mini {background: url("minifabrika.jpg");
        background-size: 101% 101%;
 	   background-attachment:fixed;
 	   overflow: hidden}
@@ -103,7 +103,7 @@ article {font-size: 1.4vw;
 		 white-space: normal;
 		 padding-left: .8vw;
 		 padding-right: .8vw}
-.podz {background: url("../Podzemka.jpg");
+.podz {background: url("Podzemka.jpg");
        background-size: 102% 102%;
        background-attachment:fixed;
 	   overflow: hidden}
