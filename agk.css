@@ -1,0 +1,142 @@
+body { display: block;
+       height: 100%;
+       width: 100%;
+       margin: 0px;
+	   padding: 0px;
+       border: none}
+p     {font-family: verdana, impact;
+       font-size: 1.4vw;
+	   line-height: 1.4em;
+	   margin-left: 5px;
+	   margin-right: 5px}
+.vectorbk {background: url("FonAGK.jpg");
+           background-size: 100% 100%;
+	       background-attachment: fixed;
+		   overflow: hidden}
+.prokrutka {background: -webkit-linear-gradient(bottom, rgba(220, 140, 140, .2), rgba(230, 190, 120, .8));
+            position: absolute;
+	        border: none;
+            height: 100%;
+			overflow-y: scroll;
+			scrollbar-width: none;
+			left: 35%;
+			top: 0px;
+			bottom: 0px;
+			width: 30%}
+.prokrutka::-webkit-scrollbar {width:0}
+ div {height: 100px;
+      width: 300px;
+      padding: 0px}
+.geo {position: absolute;
+      background: url("../geologia.jpg");
+      background-position: center;
+	  height: 100%;
+      background-size: 100% 100%;
+	  background-attachment: fixed;
+	  overflow: hidden}
+.prokrutkag {background: -webkit-linear-gradient(bottom, rgba(255, 184, 65, .4), rgba(72, 48, 240, .4));
+	        border: none;
+            position: absolute;
+			border: none;
+			overflow-y: scroll;
+			scrollbar-width: none;
+			left: 65%;
+			top: 0px;
+			bottom: 0px;
+			height: 100%;
+			width: 30%}
+.prokrutkag::-webkit-scrollbar {width:0}
+footer {
+    display: inline-block;
+	width: 100%;
+	height: 6vh;
+	position: absolute;
+	bottom: 0px;
+    padding: 5px;
+    background-color: #4830F0;
+    color: #000000;
+	margin-bottom: 0px}
+@keyframes slidein {
+    from {
+           margin-left: 100%;
+           width: 300%;
+                       }
+     to {
+           margin-left: 0%;
+           width: 100%;
+                       }
+                       }
+.gradient-button {
+  text-decoration: none;
+  display: inline-block;
+  width: 350px;
+  color: white;
+  padding: 15px 10px;
+  margin: 10px 20px;
+  border-radius: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, cyan 0%, #4830F0 51%, cyan 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .3s;}
+.gradient-button:hover {
+  background-position: right center;}
+.elec {background: url("../electro.jpg");
+       background-size: 100% 100%;
+       background-attachment:fixed;
+	   overflow: hidden}
+a {text-align: center}
+.dos {background: url(../aktovi.jpg);
+      background-size: 100% 100%;
+	  background-attachment:fixed;
+	  overflow: hidden}
+.mini {background: url(../minifabrika.jpg);
+       background-size: 101% 101%;
+	   background-attachment:fixed;
+	   overflow: hidden}
+article {font-size: 1.4vw;
+         text-align: justify;
+		 font-family: impact, verdana;
+		 white-space: normal;
+		 padding-left: .8vw;
+		 padding-right: .8vw}
+.podz {background: url("../Podzemka.jpg");
+       background-size: 102% 102%;
+       background-attachment:fixed;
+	   overflow: hidden}
+table {text-align: center;
+	   margin-top: 10vh;
+       margin-left: 8vw;
+	   border: solid 2px;
+       border-collapse: collapse;
+	   border-color: cyan}
+th{border: solid 2px;
+border-color: #4830F0;}
+td{border: solid 2px;
+   border-color: #4830F0;
+   font-size: 1.2em;
+   font-weight: 600}
+ caption {font-family: verdana, times new roman;
+          font-size: 1.2em;
+		  font-weight: 550}
+.raz {background: url("../Koridor.jpg");
+      background-size: 101% 101%;
+	  background-attachment: fixed}
+.opi {      background: -webkit-linear-gradient(bottom, rgba(255, 184, 65, .4), rgba(72, 48, 240, .4));
+	        border: none;
+            position: absolute;
+			border: none;
+			overflow-y: scroll;
+			scrollbar-width: none;
+			left: 65%;
+			top: 0px;
+			bottom: 0px;
+			height: 100%;
+			width: 30%}
+.opi::-webkit-scrollbar {width:0}
+.niz {position: absolute;
+      bottom: 4vh;
+	  width: 62vw}
