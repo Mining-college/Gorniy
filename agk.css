@@ -97,12 +97,12 @@ a {text-align: center}
        background-size: 101% 101%;
 	   background-attachment:fixed;
 	   overflow: hidden}
-article {font-size: 1.4vw;
+article {font-size: 1.0vw;
          text-align: justify;
-		 font-family: impact, verdana;
-		 white-space: normal;
-		 padding-left: .8vw;
-		 padding-right: .8vw}
+         font-family: impact, verdana;
+	 white-space: normal;
+	 padding-left: .8vw;
+	 padding-right: .8vw}
 .podz {background: url("Podzemka.jpg");
        background-size: 102% 102%;
        background-attachment:fixed;
