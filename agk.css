@@ -99,6 +99,7 @@ a {text-align: center}
 	   overflow: hidden}
 article {font-size: 1.0vw;
          text-align: justify;
+	 line-height: .8em;
          font-family: impact, verdana;
 	 white-space: normal;
 	 padding-left: .8vw;
