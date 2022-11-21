@@ -69,7 +69,7 @@ footer {
 .gradient-button {
   text-decoration: none;
   display: inline-block;
-  width: 280px;
+  width: 250px;
   color: white;
   padding: 15px 10px;
   margin: 10px 20px;
@@ -99,8 +99,7 @@ a {text-align: center}
 	   overflow: hidden}
 article {font-size: 1.0vw;
          text-align: justify;
-	 line-height: .8em;
-         font-family: impact, verdana;
+	 font-family: impact, verdana;
 	 white-space: normal;
 	 padding-left: .8vw;
 	 padding-right: .8vw}
